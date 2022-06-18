@@ -1,0 +1,10 @@
+.jokes{
+    width: 100%;
+    background: #C4C4C4;
+    &_content{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
